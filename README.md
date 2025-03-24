@@ -44,9 +44,9 @@ This dashboard helps:
 - Make data-driven decisions in marketing and sales strategy
 
 ## 📷 Dashboard Preview
-- ![Superstore sale dashboard](https://github.com/user-attachments/assets/e353ac93-6667-4eba-a63c-43860ac02448)
+![Superstore sale dashboard](https://github.com/user-attachments/assets/e353ac93-6667-4eba-a63c-43860ac02448)
 
-- ![Superstore sale Dashboard(Page 2)](https://github.com/user-attachments/assets/43835d80-be2b-4fad-b2fc-631ca3f0f929)
+![Superstore sale Dashboard(Page 2)](https://github.com/user-attachments/assets/43835d80-be2b-4fad-b2fc-631ca3f0f929)
 
 
 
